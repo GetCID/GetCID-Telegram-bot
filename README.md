@@ -6,7 +6,7 @@ Welcome to the **GetCID Telegram Bot**, your ultimate solution for fast, hassle-
 
 ## 🔗 **Get Started with the Bot**
 
-- **Bot GetCID Telegram Bot**:  https://t.me/GetCID_Official_Bot
+- **Bot GetCID Telegram Bot**:  https://t.me/GETCIDOfficialBot
 - **Join the Official Group**: [GETCID Official Group](https://t.me/GETCID_Official) to see the bot in action.
 
 ---
@@ -33,7 +33,7 @@ Welcome to the **GetCID Telegram Bot**, your ultimate solution for fast, hassle-
 ## 🛠️ **How It Works**
 
 1. **Start the Bot**:
-   - Click [here](https://t.me/GetCID_Official_Bot) to start the bot.
+   - Click [here](https://t.me/GETCIDOfficialBot) to start the bot.
    
 2. **Send Your Installation ID**:
    - **Option 1**: Upload a clear image of the Installation ID screen.
@@ -66,7 +66,7 @@ We offer **custom Telegram bots** and **dedicated CID websites** for businesses.
 
 If you have questions or need a custom solution, feel free to reach out:
 
-- **Telegram**: [@MicrosoftKeySeller](https://t.me/MicrosoftKeySeller)  
+- **Telegram**: [@CIDAdmin](https://t.me/cidadmin)  
 - **Email**: [care@msconfirmationid.com](mailto:care@msconfirmationid.com)  
 - **Skype**: [live:.cid.afc21522bf98cf1b](https://join.skype.com/invite/.cid.afc21522bf98cf1b)  
 - **Website**: [GetCID Services](https://msconfirmationid.com/get-confirmation-id/)
